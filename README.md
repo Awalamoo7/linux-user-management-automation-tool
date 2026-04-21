@@ -30,6 +30,7 @@ sudo bash user_manage.sh lock john
 sudo bash user_manage.sh report
 sudo bash user_manage.sh unlock john
 sudo bash user_manage.sh delete john
+
 ```
 
 ## What I would improve
@@ -43,3 +44,5 @@ sudo bash user_manage.sh delete john
 ## Built with
 
 Bash, useradd, usermod, userdel, groupadd, chpasswd, openssl, awk. Second project in a DevOps learning roadmap.
+
+```
