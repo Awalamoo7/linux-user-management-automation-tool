@@ -1,4 +1,4 @@
-```
+
 # User Management Automation
 
 A Bash script that automates Linux user account management. Create users, assign groups, lock/unlock accounts, generate reports, and delete users from the command line.
@@ -45,4 +45,3 @@ sudo bash user_manage.sh delete john
 
 Bash, useradd, usermod, userdel, groupadd, chpasswd, openssl, awk. Second project in a DevOps learning roadmap.
 
-```
